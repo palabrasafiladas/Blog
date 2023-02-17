@@ -1342,12 +1342,9 @@ div.link-navegation{
     -webkit-backdrop-filter: blur(2px);
     backdrop-filter: blur(2px);
     background-color: rgba(255, 255, 255, 0.132);
-
-
-  
   }
   
-  a:hover {
+a:hover {
     color:#FFFF33! important;
     text-decoration:none ! important;
 
