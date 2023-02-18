@@ -99,7 +99,7 @@ div.link-navegation{
 
 
 .social-media {
-    width: 50%;
+    width: 100%;
     display: flex;
     justify-content: flex-start;
 }
@@ -124,8 +124,8 @@ div.link-navegation{
 }
 
 .line {
-    width: 90%;
-    max-width: 1200px;
+    width: 100%;
+    max-width: 1800px;
     margin: 40px auto;
     height: 3px;
     background-color: white;

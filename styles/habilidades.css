@@ -98,7 +98,7 @@ body{
  
  
  .social-media {
-     width: 50%;
+     width: 100%;
      display: flex;
      justify-content: flex-start;
  }
@@ -123,8 +123,8 @@ body{
  }
  
  .line {
-     width: 90%;
-     max-width: 1200px;
+     width: 100%;
+     max-width: 100%;
      margin: 40px auto;
      height: 3px;
      background-color: white;
